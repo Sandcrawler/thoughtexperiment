@@ -1,6 +1,6 @@
 # thought experiment
 
-an interesting little question
+an interesting set of questions applied to a simple experiment.
 
 Lee Barnard
 
